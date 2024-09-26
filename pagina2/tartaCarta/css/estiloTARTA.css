@@ -1,0 +1,189 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+  background-color: #FFF7A3;
+}
+.anegro:hover{
+  background-color: #FFF7A3 ;
+}
+.contenedorParra{
+  text-align: center;
+  margin: 10px;
+  display: inline-block;
+  justify-content: center;
+  font-weight: bold;
+ margin-left: 4%;
+  justify-content: center;
+}
+.bolleria{
+  text-align: center;
+  margin: 10px;
+  display: inline-block;
+  justify-content: center;
+  font-weight: bold;
+ margin-left: 7.8%;
+  justify-content: center;
+}
+.empanadas{
+  text-align: center;
+  margin: 10px;
+  display: inline-block;
+  justify-content: center;
+  font-weight: bold;
+ margin-left: 7.8%;
+  justify-content: center;
+  margin-top: 4%;
+  
+}
+/* contenedor pasteleria */
+.contenedorP {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.5%;
+}
+.contenedorP img {
+  width: 200px;
+  height: 160px;
+}
+
+/* contenedor bolleria */
+.contenedorB {
+  display: flex;
+  justify-content: center;
+  margin-top: 2.5%;
+}
+.contenedorB img {
+  width: 180px;
+  height: 150px;
+}
+
+/* contenedor empanadas */
+.contenedorE {
+  display: flex;
+  justify-content: center;
+  margin-top: 5.5%;
+}
+.contenedorE img {
+  width: 300px;
+  height: 250px;
+}
+.contenedorimg{
+  
+  text-align: center;
+  justify-content: center;
+
+}
+.contenedor p{
+  justify-content: center;
+  text-align: center;
+
+  font-weight: bold;
+}
+.item {
+  margin-right: 10px;
+}
+
+body h1 {
+  text-align: center;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height:100px;
+  background-color: #B5A826;
+  justify-content: center;
+  align-items: center;
+  
+ 
+  
+}
+
+.imgEnlace{
+text-align: center;
+border: solid 3px #B5A826;
+border-radius: 10px;
+width: 200px;
+height: 160px;
+}
+.imgEnlaceEmpanadas{
+  text-align: center;
+  border: solid 3px #B5A826;
+  border-radius: 10px;
+  width: 200px;
+  height: 180px;
+}
+.pfooter{
+  background-color: #B5A826;
+  text-align: center;
+  margin-top: 4px;
+  justify-content: center;
+  
+}
+.map{
+
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: #B5A826;
+  padding-right: 50px;
+  padding-bottom:35px;
+  
+  }
+  .esquina-derecha img {
+    width: 0px; 
+   
+   
+    margin-bottom: 0px; 
+  }
+  .anegro{
+
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border: solid;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #B5A826;
+  
+  }
+  .centrado{
+
+    margin:2px auto;
+    display:inline block;
+    text-align: center;
+  
+  
+  }
+  ul{
+
+    list-style: none;
+    display: inline-block;
+    padding: 18px;
+    
+  
+  }
+  
+  li{
+
+  
+  margin: 10px;
+  display: inline-block;
+  text-align: center;
+  }
+  
+  .contenedorH{
+    margin-top: 0%;
+    margin-left: 1%;
+    display: flex;
+    text-align: justify;
+
+  }
+  .empanadaAtun li{
+    
+    background-color: #FFF7A3;
+    margin-top: 1%;
+    
+  }
+  
